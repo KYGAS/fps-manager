@@ -41,7 +41,7 @@
         "settings/presets/priest.json": {
             "overwrite": false,
             "hash": "cbba7e69ad89ae28f4c840cf2e329391f3a6af1a278cc84a20f0bc8cc882cee5"
-        },
+        }
     },
     "defs": {}
 }
