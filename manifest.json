@@ -14,7 +14,6 @@
         "lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
         "lib/unitState.js": "c917a87e648e06f5988e94dc1793a58a555f60d105301be936b6c82009d2d150",
         "lib/unitTracker.js": "f7426397562ff5b4ffe88f069131d7a051a88eeb96b1bcb9a59862ea2fa74081",
-        "module.config.json": "454e866111e50e2515b28eb0eb0b60c2d44a6001aa1e484b3f16d0f066272608",
         "module.json": "101e82c3534970de0b612c87ecf1746f88f43f73f684d6bd8259a94f9374464c",
         "node_modules/rfdc/LICENSE": "1ce941682a96c7b898ecd125d0f2e22319758ea6f3adbf498a65d649b0f3f7dd",
         "node_modules/rfdc/default.js": "d7f46114c176de337df05aef386228b8ee1cd60e93a7400ee4ac98b91651f35e",
@@ -43,10 +42,6 @@
             "overwrite": false,
             "hash": "cbba7e69ad89ae28f4c840cf2e329391f3a6af1a278cc84a20f0bc8cc882cee5"
         },
-        "settings/settings.json": {
-            "overwrite": false,
-            "hash": "ca16f1ab75051a12abf26dc175b21d739e2f86d89cf91a5d68771a617a2e377b"
-        }
     },
     "defs": {}
 }
